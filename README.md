@@ -1,2 +1,3 @@
 # myFirstTomcatProgram
-My first Tomcat program
+Changes:
+index.html file was added on the artifacts directory
