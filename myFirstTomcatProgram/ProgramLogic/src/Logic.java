@@ -1,3 +1,5 @@
+import javax.servlet.*;
+
 public class Logic {
 
     private String exampleStr;

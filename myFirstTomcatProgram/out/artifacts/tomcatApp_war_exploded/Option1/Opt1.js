@@ -1,3 +1,4 @@
+/*
 console.log('Before Everything!');
 
 window.onload = function(){
@@ -16,4 +17,4 @@ function myclick (event) {
     document.getElementById('form_col').value = col;
     document.getElementById('button').value = event.button;
     document.forms['clickform'].submit();
-}
+}*/
