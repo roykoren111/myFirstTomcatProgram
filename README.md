@@ -1,3 +1,5 @@
 # myFirstTomcatProgram
 Changes:
-index.html file was added on the artifacts directory
+webApp contains 2 functions:
+1. Current date
+2. Upload file
